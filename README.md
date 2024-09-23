@@ -7,7 +7,6 @@ This is a Flask web application that predicts the likelihood of diabetes based o
 - **Machine Learning Model**: Uses a trained machine learning model to predict diabetes based on health parameters.
 - **User-Friendly Interface**: The web app provides an easy-to-use form for inputting health data.
 - **PDF Report Generation**: After the prediction, the app generates a PDF report summarizing the input data and prediction result.
-- **Modern UI**: Built with Bootstrap and styled to include both light and dark themes with a toggle switch.
 
 ## Technologies Used
 
@@ -20,7 +19,7 @@ This is a Flask web application that predicts the likelihood of diabetes based o
 ## How to Run the Application
 
 1. Clone the repository:
-   ```bash
+   bash
    git clone https://github.com/AtharvBheda/diabetes-prediction-webapp.git
    cd diabetes-prediction-app
 2. Install the required dependencies
