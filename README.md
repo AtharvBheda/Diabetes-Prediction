@@ -32,4 +32,12 @@ This is a Flask web application that predicts the likelihood of diabetes based o
 
 4. Open your browser and go to:
    http://127.0.0.1:5000
+
+## Screenshots:
+   Home Page
+   ![image](https://github.com/user-attachments/assets/a8d588ec-0d57-47c7-ab23-6406ce71a44f)
+
+   Prediction Result:
+   
+
   
