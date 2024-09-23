@@ -1,0 +1,36 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #343a40;
+}
+
+form {
+    background-color: white;
+}
+
+label {
+    font-weight: bold;
+    color: #495057;
+}
+
+input[type="submit"],
+button {
+    background-color: #007bff;
+    color: white;
+}
+
+.navbar {
+    border-bottom: 1px solid #ddd;
+}
+
+.footer {
+    background-color: #f1f1f1;
+}
+
+.footer span {
+    font-size: 0.875rem;
+}
