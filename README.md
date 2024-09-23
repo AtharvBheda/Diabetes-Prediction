@@ -19,17 +19,18 @@ This is a Flask web application that predicts the likelihood of diabetes based o
 ## How to Run the Application
 
 1. Clone the repository:
-   bash
+   '''bash
    git clone https://github.com/AtharvBheda/diabetes-prediction-webapp.git
    cd diabetes-prediction-app
 2. Install the required dependencies
-   bash
+   '''bash
    pip install -r requirements.txt
 
 3. Run the Flask app:
+   '''bash
    python app.py
 
-4. Open your browser and go to:
+5. Open your browser and go to:
    http://127.0.0.1:5000
 
 ## Screenshots:
